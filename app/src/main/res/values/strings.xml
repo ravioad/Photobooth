@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoBooth</string>
+    <string name="top_to_start_text">TAP TO START</string>
+    <string name="countdown">3</string>
+
+
+    <string name="get_ready_text">Get ready for 2 photos.\n\nLook at the camera above!</string>
+    <string name="take_pics_button_text">Capture</string>
+    <string name="pick_imge_text">Pick an image</string>
+    <string name="write_external_storage_perm">This App needs Write External Storage Permission</string>
+    <string name="addtext_placeholder">Type Text Here</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="back_button_text">Back</string>
+    <string name="done_button_text">Done</string>
+    <string name="edit_button_text">Edit</string>
+</resources>
